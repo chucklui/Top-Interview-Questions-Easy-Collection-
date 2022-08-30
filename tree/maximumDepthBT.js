@@ -10,7 +10,7 @@ Input: root = [1,null,2]
 Output: 2
 */
 
-function maximumDepthBST(root){
+function maximumDepthBT(root){
   return findDepth(root);
 }
 
